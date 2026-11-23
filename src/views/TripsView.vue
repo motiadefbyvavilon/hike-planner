@@ -260,7 +260,7 @@ h1 {
 
 .alert {
   background: var(--danger-soft);
-  border: px solid var(--danger);
+  border: 1px solid var(--danger);
   color: var(--danger);
   border-radius: var(--radius-m);
   padding: 12px 14px;
